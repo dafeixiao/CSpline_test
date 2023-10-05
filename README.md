@@ -2,4 +2,6 @@
 
 organized from: https://github.com/ZhuangLab/storm-analysis
 
-follow the notebook to implement this test.
+1, please unzip the storm_analysis file for package support at first.
+
+2, then follow the notebook to implement this test.
